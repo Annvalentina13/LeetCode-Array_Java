@@ -2,10 +2,10 @@
 
 This repository contains my personal practice solutions for various LeetCode array problems using Java. I use this repo to learn, improve problem‑solving skills, and track my progress over time. Each file corresponds to one LeetCode problem, containing:
 
-Problem description
+- Problem description
 
-Example inputs/outputs
+- Example inputs/outputs
 
-Step‑by‑step explanation (where applicable)
+- Step‑by‑step explanation (where applicable)
 
-Clean Java solution
+- Clean Java solution
